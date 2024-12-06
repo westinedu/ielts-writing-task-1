@@ -81,7 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				1826237A2C995ABD005C9797 /* File */,
-				A2D7F3071C8CE3F60097399A /* Artistry */,
+				A2D7F3071C8CE3F60097399A /* ieltsWriting */,
 				A2D7F3061C8CE3F60097399A /* Products */,
 			);
 			indentWidth = 2;
@@ -96,7 +96,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A2D7F3071C8CE3F60097399A /* Artistry */ = {
+		A2D7F3071C8CE3F60097399A /* ieltsWriting */ = {
 			isa = PBXGroup;
 			children = (
 				A2D7F3081C8CE3F60097399A /* AppDelegate.swift */,
@@ -108,7 +108,7 @@
 				A23F753A1C9BC89A006FA46F /* Info.plist */,
 				A2D7F3111C8CE3F60097399A /* LaunchScreen.storyboard */,
 			);
-			path = Artistry;
+			path = ieltsWriting;
 			sourceTree = "<group>";
 		};
 		A2D7F32C1C8CE4B20097399A /* Resources */ = {
@@ -122,9 +122,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A2D7F3041C8CE3F60097399A /* Artistry */ = {
+		A2D7F3041C8CE3F60097399A /* ieltsWriting */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A2D7F3171C8CE3F60097399A /* Build configuration list for PBXNativeTarget "Artistry" */;
+			buildConfigurationList = A2D7F3171C8CE3F60097399A /* Build configuration list for PBXNativeTarget "ieltsWriting" */;
 			buildPhases = (
 				A2D7F3011C8CE3F60097399A /* Sources */,
 				A2D7F3021C8CE3F60097399A /* Frameworks */,
@@ -134,7 +134,7 @@
 			);
 			dependencies = (
 			);
-			name = Artistry;
+			name = ieltsWriting;
 			productName = Artistry;
 			productReference = A2D7F3051C8CE3F60097399A /* Artistry.app */;
 			productType = "com.apple.product-type.application";
@@ -168,7 +168,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A2D7F3041C8CE3F60097399A /* Artistry */,
+				A2D7F3041C8CE3F60097399A /* ieltsWriting */,
 			);
 		};
 /* End PBXProject section */
@@ -369,7 +369,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A2D7F3171C8CE3F60097399A /* Build configuration list for PBXNativeTarget "Artistry" */ = {
+		A2D7F3171C8CE3F60097399A /* Build configuration list for PBXNativeTarget "ieltsWriting" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A2D7F3181C8CE3F60097399A /* Debug */,
