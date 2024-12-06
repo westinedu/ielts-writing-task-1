@@ -26,7 +26,7 @@ class ArtistDetailViewController: UIViewController {
   
   var selectedArtist: Artist!
   
-  let moreInfoText = "Select For More Info >"
+  let moreInfoText = "Click Image For full Info >"
   
   @IBOutlet weak var tableView: UITableView!
   
