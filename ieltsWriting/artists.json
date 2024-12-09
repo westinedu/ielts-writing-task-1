@@ -1,218 +1,218 @@
 {
-  "artists": [
+  "artists" : [
     {
-      "name": "Line graph",
-      "bio": "Pablo Ruiz y Picasso (25 October 1881 – 8 April 1973), also known as Pablo Picasso, was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright who spent most of his adult life in France.",
-      "image": "0",
-      "works": [
+      "name" : "Line graph",
+      "bio" : "Pablo Ruiz y Picasso (25 October 1881 – 8 April 1973), also known as Pablo Picasso, was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright who spent most of his adult life in France.",
+      "image" : "0",
+      "works" : [
         {
-          "title": "Line Graph 1",
-          "image": "Line1",
-          "info": "The line chart compares amounts of electricity produced by four different sources in France over the period from 1980 to 2012.\n It is clear that the major portion of electricity production is made by the source of nuclear power station, which has a dramatic increase since 1980. The other three electricity productive sources all have a stable productivity over the observation period.\n In 1980，the highest figure of electricity production is made by Thermal method in approximate of 120 terawatt hours. In the meantime nuclear and hydroelectric source both generated about 70 terawatt hours electricity. One year later, the production of electricity provided by nuclear power stations exceeded the number of thermal source.\n Of the four different electricity productive categories, only nuclear method electricity production saw a continuous increase from 1980 to 2005, with some fluctuant in the rest of the period. Other three categories of electricity production all stayed below 80 terawatt hours. In particular,renewables source made the lowest contribution of all, which kept a record of nearly zero terawatt hours from 1980 to 2000. But it had risen slowly since 2000, reaching 30 terawatt hours in 2012."
+          "title" : "Electricity Production",
+          "image" : "Line0",
+          "info" : "The line chart compares amounts of electricity produced by four different sources in France over the period from 1980 to 2012.\n\nIt is clear that the major portion of electricity production is made by the source of nuclear power station, which has a dramatic increase since 1980. The other three electricity productive sources all have a stable productivity over the observation period.\n\nIn 1980，the highest figure of electricity production is made by Thermal method in approximate of 120 terawatt hours. In the meantime nuclear and hydroelectric source both generated about 70 terawatt hours electricity. One year later, the production of electricity provided by nuclear power stations exceeded the number of thermal source.\n\nOf the four different electricity productive categories, only nuclear method electricity production saw a continuous increase from 1980 to 2005, with some fluctuant in the rest of the period. Other three categories of electricity production all stayed below 80 terawatt hours. In particular,renewables source made the lowest contribution of all, which kept a record of nearly zero terawatt hours from 1980 to 2000. But it had risen slowly since 2000, reaching 30 terawatt hours in 2012.\n(words 186)"
         },
         {
-          "title": "Line Graph 2",
-          "image": "Picasso2",
-          "info": "The Weeping Woman, (60 х 49 cm, 23 ⅝ х 19 ¼ inches) is an oil on canvas painted by Pablo Picasso in France in 1937. Picasso was intrigued with the subject, and revisited the theme numerous times that year. This painting was the final and most elaborate of the series. It has been in the collection of the Tate in London since 1987, and is on exhibition at the Tate Modern, London."
+          "title" : "Waste produced",
+          "image" : "Line1",
+          "info" : "Question : The graph below shows the amounts of waste produced by three companies over a period of 15 years.\n\nThe line graph compares three companies in terms of their waste output between the years 2000 and 2015.\r\n\nIt is clear that there were significant changes in the amounts of waste produced by all three companies shown on the graph. While companies A and B saw waste output fall over the 15-year period, the amount of waste produced by company C increased\r\nconsiderably.\r\n\nIn 2000, company A produced 12 tonnes of waste, while companies B and C produced around 8 tonnes and 4 tonnes of waste material respectively. Over the following 5 years, the waste output of companies B and C rose by around 2 tonnes, but the figure for company A fell by approximately 1 tonne.\r\n\nFrom 2005 to 2015, company A cut waste production by roughly 3 tonnes, and company B reduced its waste by around 7 tonnes. By contrast, company C saw an increase in waste production of approximately 4 tonnes over the same 10-year period. By 2015, company C’s waste output had risen to 10 tonnes, while the respective amounts of waste from companies A and B had dropped to 8 tonnes and only 3 tonnes.\n(words 190)\t"
         },
         {
-          "title": "L'Homme aux cartes (Card Player)",
-          "image": "Picasso3",
-          "info": "1913–14, L'Homme aux cartes (Card Player), oil on canvas, 108 × 89.5 cm, Museum of Modern Art, New York"
+          "title" : "Spend on children's sports",
+          "image" : "Line2",
+          "info" : "Question: The first chart below gives information about the money spent by British parents on their children’s sports between 2008 and 2014. The second chart shows the number of children who participated in three sports in Britain over the same time period.\n\nThe line graphs show the average monthly amount that parents in Britain spent on their children’s sporting activities and the number of British children who took part in three different sports from 2008 to 2014. \r\n\r\nIt is clear that parents spent more money each year on their children’s participation in sports over the six-year period. In terms of the number of children taking part, football was significantly more popular than athletics and swimming. \r\n\r\nIn 2008, British parents spent an average of around £20 per month on their children’s sporting activities. Parents’ spending on children’s sports increased gradually over the following six years, and by 2014 the average monthly amount had risen to just over £30. \r\n\r\nLooking at participation numbers, in 2008 approximately 8 million British children played football, while only 2 million children were enrolled in swimming clubs and less than 1 million practiced athletics. The figures for football participation remained relatively stable over the following 6 years. By contrast, participation in swimming almost doubled, to nearly 4 million children, and there was a near fivefold increase in the number of children doing athletics.\n（words 184)\r"
         },
         {
-          "title": "Asleep",
-          "image": "Picasso4",
-          "info": "The model of this painting, Asleeep, painted in 1932, is Picasso's mistress Marie Therese. She was resting between the two powerful polarized color blocks of red and green, which accentuate the tranquility of Marie Therese while sleeping. The solid black outline around the Marie's hands and profile is a feature of the series recalling the Fauvist's black binding of color blocks.(PabloPicasso.org)"
+          "title" : "Population living in cities",
+          "image" : "Line3",
+          "info" : "Question: The graph below gives information about the percentage of the population in four Asian countries living in cities from 1970 to 2020, with predictions for 2030 and 2040.\n\nThe graph depicts urbanization trends in Thailand, Malaysia, the Philippines, and Indonesia from 1970 to a projection for 2040. \r\n\r\nIn 1970, the Philippines exhibited the highest proportion of urban inhabitants at approximately 31%, closely succeeded by Malaysia at 30%, while Thailand and Indonesia displayed lower percentages of nearly 19% and 14% respectively. In the subsequent decade, Malaysia experienced a notable surge in urbanization, reaching an estimated 41% in 1980, whereas the remaining three countries underwent more gradual growth.\r\n\r\nDuring the 1990s, a significant augmentation in urban population proportions transpired for all countries, as the Philippines and Malaysia both neared 50% and Thailand and Indonesia attained close to 30% and 20% respectively. Nonetheless, the Philippines witnessed a minor decrease in urbanization during the 2000s, declining to approximately 45% in 2000, and further to nearly 42% in 2010.\r\n\r\nBy 2010, Malaysia emerged as the preeminent urbanized nation among the four, with 70% of its population inhabiting cities. In contrast, Thailand sustained a comparatively stable percentage of urban population at around 30% throughout the 2000s. Conversely, Indonesia underwent considerable growth during this time, surpassing 40% in 2010.\n(words 184）"
         }
       ]
     },
     {
-      "name": "Bar chart",
-      "bio": "Vincent Willem van Gogh (30 March 1853 – 29 July 1890) was a Dutch post-Impressionist painter whose work had far-reaching influence on 20th-century art.",
-      "image": "1",
-      "works": [
+      "name" : "Bar chart",
+      "bio" : "Vincent Willem van Gogh (30 March 1853 – 29 July 1890) was a Dutch post-Impressionist painter whose work had far-reaching influence on 20th-century art.",
+      "image" : "1",
+      "works" : [
         {
-          "title": "The Starry Night",
-          "image": "VanGogh1",
-          "info": "The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an idealized village. It has been in the permanent collection of the Museum of Modern Art in New York City since 1941, acquired through the Lillie P. Bliss Bequest. It is regarded as among Van Gogh's finest works, and is one of the most recognized paintings in the history of Western culture."
+          "title" : "illiteracy rates",
+          "image" : "Bar0",
+          "info" : "Question: The chart below shows estimated world illiteracy rates by region and by gender for the year 2000. Write a report for a university lecturer describing the information below.\n\nThe given bar chart shows the approximate world illiteracy rates by gender and region for the year 2000. \r\n\nAs is observed in the given column graph, in all cases, the illiteracy rate among women was higher than men. Developed countries had almost ignorable illiteracy rate. On the contrary, about half of the population in South Asia, Arab states and Africa were illiterate.\r\n\nThe illiteracy rate in Latin America / Caribbean and East Asia / Oceania was only 1 percent (approximately), 10  percent and 14 percent (approximately) respectively considering both male and female. Sub-Saharan Africa, the Arab States and South Asia had rates of approximately 40%, 41% and 45%. Illiterate women were higher than the illiterate men in all the given countries.\r\n\nIn the developed countries, the proportion of literacy among men and female was almost similar but the differences increased for Asia, Arab states and Africa. Among the given 6 countries, the South Asian population were far more illiterate than any other country.\n(Words 163)"
         },
         {
-          "title": "Sunflowers",
-          "image": "VanGogh2",
-          "info": "Sunflowers (original title, in French: Tournesols) are the subject of two series of still life paintings by the Dutch painter Vincent van Gogh. The earlier series executed in Paris in 1887, depicts the flowers lying on the ground, while the second set executed a year later in Arles shows bouquets of sunflowers in a vase. In the artist's mind both sets were linked by the name of his friend Paul Gauguin, who acquired two of the Paris versions. "
+          "title" : "mobile phones",
+          "image" : "Bar1",
+          "info" : "Question: The chart shows the number of mobile phones and landlines per 100 people in selected countries. Write a report for a university lecturer describing the information given.\n\nThe graph shows the number of mobile phones and landlines per 100 users, for selected countries. Overall, most of the countries included in the graph have more mobile phones subscribers than landlines.\r\n\nMost European countries have high mobile phone use. The biggest users of mobile phones are the Italians, with 88 cell phones per 100 people. For example, Italy has twice as many mobile phones as landlines, with 88 mobiles per hundred people compared to 45 for landlines. Mobile phone use is low in Canada, with fewer than 40 phones per 100 people. Denmark is also unusual because it has slightly more landlines than mobile phones.\r\n\nHowever, in some countries, the number of landlines is higher than the number of mobile phones. One example is the USA, where the number of mobiles, at 50 per 100 people, is much lower than the number of landlines, at almost 70 per hundred. A similar pattern can be seen in Canada. The highest number of landlines in the graph is in Denmark, with about 90 per 100 people. In contrast, the lowest figures for fixed lines are in Italy and the UK.\r\n\nIn conclusion, it seems that mobile phone use is higher in Europe than in North America.\n(Words 205)"
         },
         {
-          "title": "Bedroom in Arles",
-          "image": "VanGogh3",
-          "info": "Bedroom in Arles (French: La Chambre à Arles; Dutch: Slaapkamer te Arles) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter Vincent van Gogh. Van Gogh's own title for this composition was simply The Bedroom (French: La Chambre à coucher). There are three authentic versions described in his letters, easily discernible from one another by the pictures on the wall to the right."
+          "title" : "TV programmes",
+          "image" : "Bar2",
+          "info" : "Question: The charts give information about two genres of TV programmes watched by men and women and four different age groups in Australia.\n\nThe bar charts provide data on the percentage of viewership for two genres of TV programs—reality shows and game shows—across different demographics in Australia. \n\nFor reality shows, the chart shows that women have a higher percentage of viewership than men across all age groups. The youngest age group (16-24) has the highest viewership among women at nearly 70%, while men in this age group have a viewership of about 30%. As age increases, the viewership percentages for both genders decrease, with the lowest viewership among those aged 45+.\r\n\r\nFor game shows, the pattern is similar, with women again having higher viewership percentages than men across all age groups. However, unlike reality shows, the viewership percentages are more evenly distributed across age groups, with the highest viewership among those aged 45+ at approximately 70% for women and 60% for men. The lowest viewership is among the youngest age group (16-24), with around 30% for women and 40% for men.\r\n\r\nOverall, the data suggests that women in Australia tend to watch more reality and game shows than men, and that older individuals (45+) have a higher viewership of game shows compared to younger age groups.\n(Words 197)"
         },
         {
-          "title": "Irises",
-          "image": "VanGogh4",
-          "info": "Irises is one of many paintings and prints of irises by the Dutch artist Vincent van Gogh. Irises was painted while Vincent van Gogh was living at the asylum at Saint Paul-de-Mausole in Saint-Rémy-de-Provence, France, in the last year before his death in 1890. It was painted before his first attack at the asylum."
+          "title" : "age structure of the populations",
+          "image" : "Bar3",
+          "info" : "Question: The charts below compare the age structure of the populations of France and India in 1984.\n\nThe two charts compare the populations of France and India in terms of age distribution by gender in the year 1984. \r\n\nIt is clear that the population of India was younger than that of France in 1984, with a noticeably larger proportion of people aged under 20. France, on the other hand, had a significantly larger percentage of elderly inhabitants. \r\n\nIn India, close to 14% of people were aged 5 or under, and each five-year age bracket above this contained an increasingly smaller proportion of the population. France’s population, by contrast, was more evenly distributed across the age ranges, with similar figures (around 7% to 8% of all people) for each five-year cohort between the ages of 0 and 40. Somewhere between 10% and 15% of all French people were aged 70 or older, but the equivalent figure for India was only 2%. \r\n\nLooking more closely at gender, there was a noticeably higher proportion of French women than men in every cohort from age 50 upwards. For example, almost 3% of French 70- to 75-year-olds were women, while just under 2% were men. No significant gender differences can be seen on the Indian population chart.\n(Words 195)"
         }
       ]
     },
     {
-      "name": "Pie chart",
-      "bio": "Frida Kahlo de Rivera (July 6, 1907 – July 13, 1954), born Magdalena Carmen Frieda Kahlo y Calderón, was a Mexican painter known for her self-portraits.",
-      "image": "2",
-      "works": [
+      "name" : "Pie chart",
+      "bio" : "Frida Kahlo de Rivera (July 6, 1907 – July 13, 1954), born Magdalena Carmen Frieda Kahlo y Calderón, was a Mexican painter known for her self-portraits.",
+      "image" : "2",
+      "works" : [
         {
-          "title": "Roots",
-          "image": "Frida1",
-          "info": " In 2006, Kahlo's 1943 painting Roots set a US$ 5.6 million auction record for a Latin American work"
+          "title" : "Hotel's customer service",
+          "image" : "PieChart0",
+          "info" : "Question: The charts below show the results of a questionnaire that asked visitors to the Parkway Hotel how they rated the hotel's customer service. The same questionnaire was given to 100 guests in the years 2005 and 2010.\n\nThe pie charts compare visitors’ responses to a survey about customer service at the Parkway Hotel in 2005 and in 2010.\r\n\nIt is clear that overall customer satisfaction increased considerably from 2005 to 2010. While most hotel guests rated customer service as satisfactory or poor in 2005, a clear majority described the hotel’s service as good or excellent in 2010.\r\n\nLooking at the positive responses first, in 2005 only 5% of the hotel’s visitors rated its customer service as excellent, but this figure rose to 28% in 2010. Furthermore, while only 14% of guests described customer service in the hotel as good in 2005, almost three times as many people gave this rating five years later.\r\n\nWith regard to negative feedback, the proportion of guests who considered the hotel’s customer service to be poor fell from 21% in 2005 to only 12% in 2010. Similarly, the proportion of people who thought customer service was very poor dropped from 15% to only 4% over the 5-year period. Finally, a fall in the number of ‘satisfactory’ ratings in 2010 reflects the fact that more people gave positive responses to the survey in that year.\n(Words 201)\n"
         },
         {
-          "title": "Self-Portrait with Thorn Necklace and Hummingbird",
-          "image": "Frida2",
-          "info": "Self-Portrait with Thorn Necklace and Hummingbird (Autorretrato con Collar de Espinas in Spanish) is a 1940 painting by Mexican painter Frida Kahlo. Kahlo painted the self-portrait after her divorce from Diego Rivera and the end of her affair with photographer Nickolas Muray. The painting depicts Kahlo wearing a white dress with a monkey on her right shoulder and a cat on her left, wearing a necklace made of thorns and a dead hummingbird. The thorns dig into Kahlo's skin, making her bleed."
+          "title" : "Employment patterns in Great Britain",
+          "image" : "PieChart1",
+          "info" : "Self-Portrait with Thorn Necklace and Hummingbird (Autorretrato con Collar de Espinas in Spanish) is a 1940 painting by Mexican painter Frida Kahlo. Kahlo painted the self-portrait after her divorce from Diego Rivera and the end of her affair with photographer Nickolas Muray. The painting depicts Kahlo wearing a white dress with a monkey on her right shoulder and a cat on her left, wearing a necklace made of thorns and a dead hummingbird. The thorns dig into Kahlo's skin, making her bleed."
         },
         {
-          "title": "Self Portrait with Cropped Hair",
-          "image": "Frida3",
-          "info": "Kahlo cut her hair short a month after her divorce from fellow artist Diego Rivera, and she painted this self-portrait soon after. Here she depicted herself wearing an oversized men’s suit and crimson shirt—possibly Rivera’s—instead of one of the traditional Mexican dresses that she is often shown wearing. (moma.org)"
+          "title" : "Annual spending by local authorities",
+          "image" : "PieChart2",
+          "info" : "Question: The three pie charts below show the changes in annual spending by local authorities in Someland in 1980,1990 and 2000.\n\nThe charts show how much local authorities spent on a range of services in Someland in three separate years: 1980, 1990 and 2000.\r\n\nIn all three years, the greatest expenditure was on education. But while K-12 education saw a fall from 25% in 1980 to only 18% of spending in 2000, higher education remained the largest proportion, reaching 45% of total spending in 1990 and ending at 40% in 2000.\r\n\nExpenditure on health and human resources had increased to 20% by 1990 before decreasing to only 10% by the end of the period. In contrast, the share of transportation saw an opposite trend. This cost decreased to only 6% of total expenditure in 1990 but rose dramatically in 2000 when it represented 22% of the total budget. Similarly, the cost of environmental services saw a rising trend, growing from only 4% tо 9% by 2000.\r\n\nOverall, higher education constituted the largest cost to local authorities, and while spending increased for transportation and environmental services, there were corresponding drops in expenditure on health and human resources and K-12 education.\n(Words 178)"
         },
         {
-          "title": "Fruit Of Life",
-          "image": "Frida4",
-          "info": "In the early fifties and in her last days, Frida painted chiefly still lifes. During this period she was in such pain that she was unable to leave the house or even, at times, her bed. Her still life paintings usually show the fruits from her garden or the local market which she would arrange on her bedside table. She would often politicize her still life paintings by adding flags, inscriptions or a peace dove as she has done in this painting. (fridakahlofans.com)"
+          "title" : "What makes them most happy",
+          "image" : "PieChart3",
+          "info" : "Question：The charts below show the results of a survey about what people of different age groups say makes them most happy.\n\nThere are several similarities between what younger and older people say makes them most happy. However, there are several striking differences.\r\n\r\nFirstly, let us look at the similarities. It is noticeable that for both younger and older people, the highest percentage says that achievement at work brings them most happiness:31% for the younger age group and 32% for the older group. Doing hobbies is also very important for both groups: the second largest percentage of both age groups mention doing hobbies as making them most happy.\r\n\r\nTurning now to the differences, many younger people regard having a good appearance as extremely important: 18% of them state this brings them most happiness. This is followed by 15% who state that travel brings them happiness. Neither of these two factors is mentioned by older people. Instead, 20% of older people report that having financial security is most important to their happiness and 14% say they feel most happy when they are with their family.\r\n（Words 162)"
         }
       ]
     },
     {
-      "name": "Table",
-      "bio": "Georgia Totto O'Keeffe (November 15, 1887 – March 6, 1986) was an American artist. She is best known for her paintings of enlarged flowers, New York skyscrapers, and New Mexico landscapes. O'Keeffe has been recognized as the 'Mother of American modernism'.",
-      "image": "3",
-      "works": [
+      "name" : "Table",
+      "bio" : "Georgia Totto O'Keeffe (November 15, 1887 – March 6, 1986) was an American artist. She is best known for her paintings of enlarged flowers, New York skyscrapers, and New Mexico landscapes. O'Keeffe has been recognized as the 'Mother of American modernism'.",
+      "image" : "3",
+      "works" : [
         {
-          "title": "Oriental Poppies",
-          "image": "Georgia1",
-          "info": "Flowers fascinated Georgia and they were her favorite subject on canvas. She seems to have liked particular flowers - the calla lily, poppy, canna, iris, petunia, and jimson weed. O'Keeffe painted Oriental Poppies in 1928. This stunning work was declared a groundbreaking, art masterpiece. (georgiaokeeffe.net)"
+          "title" : "sales of coffee and bananas",
+          "image" : "Table0",
+          "info" : "Question: The tables below give information about sales of Fairtrade*-labelled coffee and bananas in 1999 and 2004 in five European countries.  *Fairtrade: a category of products for which farmers from developing countries have been paid an officially agreed fair price.\n\nThe tables show the amount of money spent on Fairtrade coffee and bananas in UK, Switzerland, Denmark, Belgium and Sweden in the year of 1999 and 2004.\r\n\nIt is clear that sales of Fairtrade coffee rose in all five European countries from 1999 to 2004, but sales of Fairtrade bananas only went up in three out of the five countries. Overall, the UK saw by far the highest levels of spending on the two products.\r\n\nIn 1999, Switzerland had the highest sales of Fairtrade coffee, at €3 million, while revenue from Fairtrade bananas was highest in the UK, at €15 million. By 2004, however, sales of Fairtrade coffee in the UK had risen to €20 million, and this was over three times higher than Switzerland’s sales figure for Fairtrade coffee in that year. The year 2004 also saw dramatic increases in the money spent on Fairtrade bananas in the UK and Switzerland, with revenues rising by €32 million and €4.5 million respectively.\r\n\r\nSales of the two Fairtrade products were far lower in Denmark, Belgium and Sweden. Small increases in sales of Fairtrade coffee can be seen, but revenue remained at €2 million or below in all three countries in both years. Finally, it is noticeable that the money spent on Fairtrade bananas actually fell in Belgium and Sweden.\n(Words 218)"
         },
         {
-          "title": "Jimson Weed, White Flower No. 1",
-          "image": "Georgia2",
-          "info": "Jimson Weed is an oil on linen painting by American artist Georgia O'Keeffe from 1936, located in the Indianapolis Museum of Art, which is in Indianapolis, Indiana, USA. It depicts four large blossoms of jimson weed, or datura."
+          "title" : "national consumer expenditure",
+          "image" : "Table1",
+          "info" : "Question: The table below gives information on consumer spending on different items in five different countries in 2002. Percentage of national consumer expenditure by category – 2002\n\nThe table shows percentages of consumer expenditure for three categories of products and services in five countries in 2002.\r\n\r\nIt is clear that the largest proportion of consumer spending in each country went on food, drinks and tobacco. On the other hand, the leisure/education category has the lowest percentages in the table.\r\n\r\nOut of the five countries, consumer spending on food, drinks and tobacco was noticeably higher in Turkey, at 32.14%, and Ireland, at nearly 29%. The proportion of spending on leisure and education was also highest in Turkey, at 4.35%, while expenditure on clothing and footwear was significantly higher in Italy, at 9%, than in any of the other countries.\r\n\r\nIt can be seen that Sweden had the lowest percentages of national consumer expenditure for food/drinks/tobacco and for clothing/footwear, at nearly 16% and just over 5% respectively. Spain had slightly higher figures for these categories, but the lowest figure for leisure/education, at only 1.98%.\n(Words 155)\r\n"
         },
         {
-          "title": "Sky Above Clouds IV",
-          "image": "Georgia3",
-          "info": "Among the most dramatic and well-known images of O'Keeffe's later years are her cloudscapes of the 1960s and '70s. Traveling around the world, she was exhilarated by the views seen from an airplane window. She described the changing patterns and colors as 'breathtaking' and was moved to interpret these sights and feelings in paint. "
+          "title" : "languages with the most native speakers",
+          "image" : "Table2",
+          "info" : "Question: The table below gives information about languages with the most native speakers.\n\nThe table illustrates the number of native speakers of six languages as well as the number of speakers of these languages as an additional language. It is noticeable that the number of speakers of Mandarin Chinese is strikingly higher than the other languages with over one billion speakers.\r\n\r\nPeople who speak Mandarin largely speak it as a first language (900 million). In comparison to this only 190 million people speak Mandarin Chinese as an additional language. What is remarkable about English speakers is that the number of speakers of English as an additional language is higher than that of native speakers\r\nof English (603 and 339 million respectively).\r\n\r\nWhile the total number of Hindi speakers (490 million) is roughly equal to that of Spanish speakers (420 million); when it comes to speaking these languages as an additional language the number for Hindi is much higher (120 million) than that for Spanish (70 million).\r\n\r\nNative speakers of Arabic and Portuguese are similar in number with 206 million and 203 million respectively. However, the number of Arabic speakers as an additional language (24 million) is almost 2.5 times higher than speakers of Portuguese as an additional language.\n(Words 195)"
         },
         {
-          "title": "Radiator Building — Night, New York",
-          "image": "Georgia4",
-          "info": "This painting illustrates O'Keeffe's skill in articulating architectural structures as well as her use of the highly realistic, yet simplified style of Precisionism. She uses the night backdrop to incorporate a play between structure and light, and between the straight lines of the architectural forms and the ethereal smoke, which is reminiscent of the folds of flowers. O'Keeffe's portrait of the Radiator Building, an Art Deco skyscraper that was completed just three years prior to the painting, presents an iconic image that captures the changing skyline of New York City that O'Keeffe often found claustrophobic. (theartstory.org)"
+          "title" : "sales of tea and pineapples",
+          "image" : "Table3",
+          "info" : "Question: The tables below give information about sales of Fairtrade*-labelled tea and pineapples in 2010 and 2015 in five European countries.\n\nThe two tables contain sales data for Fairtrade tea and pineapples in 2010 and 2015, in five nations of Europe.\r\n\r\nThe first table shows low-level tea sales increasing in all five countries, albeit to widely varying degrees. In two places sales increased by the same small amount: 2.8-3 million euros in Germany, and 1.8-2 million in Norway. The increment was slightly larger in Netherlands, from 2-2.7 million euros. Meanwhile, in Austria sales doubled from 4-8 million euros. Finally, in France there was an enormous increase, from 2.5-21 million euros.\r\n\r\nIn the second table, it is Austria which stands out as buying far more Fairtrade pineapples than the other four countries. The sales figures for Austria jumped from 16-48 million euros across these five years, while in France and Netherlands sales only grew from 2-6.5 and from 1.6-5 million euros respectively. Norway and Germany showed a different pattern, with falls in pineapple sales from 2.8-2 and 3-1.9 million euros.\r\n\r\nComparing the two tables, it is clear that in 2010 Fairtrade tea sales ranged from 1.8-4 million euros in these five countries, while pineapple sales also mostly clustered between 1.6 and 3 million euros, with Austria the outlier at a huge 16 million euros. By 2015, sales figures for both products had risen across the board, except for Norway and Germany which recorded drops in pineapple sales.\n(Words 225)"
         }
       ]
     },
     {
-      "name": "Map",
-      "bio": "Andy Warhol (August 6, 1928 – February 22, 1987), born Andrew Warhola, was an American artist who was a leading figure in the visual art movement known as pop art.",
-      "image": "4",
-      "works": [
+      "name" : "Map",
+      "bio" : "Andy Warhol (August 6, 1928 – February 22, 1987), born Andrew Warhola, was an American artist who was a leading figure in the visual art movement known as pop art.",
+      "image" : "4",
+      "works" : [
         {
-          "title": "Marilyn Diptych",
-          "image": "Andy1",
-          "info": "The Marilyn Diptych (1962) is a silkscreen painting by American pop artist Andy Warhol. The piece is one of the artist's most famous works, and it has been praised by several cultural critics such as Camille Paglia and others. The original piece is currently owned by the Tate. Noticed qualities in the painting is how the top right panel has faded , this was done to show Marylin's more mortal and realistic features ."
+          "title" : "map of the town of Canterbury",
+          "image" : "Map0",
+          "info" : "Question：The map below is of the town of Canterbury. A new school(S) is planned for the area. The map shows two possible sites for the school.\n\nThe map shows two proposed sites for a new school for the town of Canterbury and the surrounding area. \n\nThe first site (S1) is situated in the countryside, to the north-east of the town centre. It is just outside the main housing area of the town and not far from the main road that links Sturry with Canterbury. It would therefore probably be in an ideal location for students coming from Sturry, which is only 5 kilometres away, and those who live on the east side of Canterbury. If there are students coming from Chartham, which is 7 kilometres to the south-west, they would be able to reach the school by taking the main road that runs south-west of Canterbury.\r\n\nThe second site (S2) is located in the town centre itself. There are advantages of this: it makes it practically equidistant for students coming from either Sturry or Chartham. Moreover, it would presumably be relatively easy for students who live in the housing area around the town centre to reach the school. However, because of the no traffic zone in the town centre, no parent would be able to drive their child all the way to school. This may make travel arrangements difficult for some parents. \n（Words 206）\r\n"
         },
         {
-          "title": "Campbell’s Soup Cans",
-          "image": "Andy2",
-          "info": "Campbell's Soup Cans, which is sometimes referred to as 32 Campbell's Soup Cans, is a work of art produced in 1962 by Andy Warhol. It consists of thirty-two canvases, each measuring 20 inches (51 cm) in height × 16 inches (41 cm) in width and each consisting of a painting of a Campbell's Soup can—one of each of the canned soup varieties the company offered at the time."
+          "title" : "Campbell’s Soup Cans",
+          "image" : "Andy2",
+          "info" : "Campbell's Soup Cans, which is sometimes referred to as 32 Campbell's Soup Cans, is a work of art produced in 1962 by Andy Warhol. It consists of thirty-two canvases, each measuring 20 inches (51 cm) in height × 16 inches (41 cm) in width and each consisting of a painting of a Campbell's Soup can—one of each of the canned soup varieties the company offered at the time."
         },
         {
-          "title": "Eight Elvises",
-          "image": "Andy3",
-          "info": "Eight Elvises is a 1963 silkscreen painting by American pop artist Andy Warhol. In 2008 it was sold for $100 million to a private buyer, making the painting the most valuable work by Andy Warhol at the time. The current owner and location of the painting, which has not been seen publicly since the 1960s, are unknown."
+          "title" : "Eight Elvises",
+          "image" : "Andy3",
+          "info" : "Eight Elvises is a 1963 silkscreen painting by American pop artist Andy Warhol. In 2008 it was sold for $100 million to a private buyer, making the painting the most valuable work by Andy Warhol at the time. The current owner and location of the painting, which has not been seen publicly since the 1960s, are unknown."
         },
         {
-          "title": "Self-Portrait",
-          "image": "Andy4",
-          "info": "Comprising solely of a flat, vibrant fiery-red silkscreen image of Warhol emblazoned like a single and dramatic paint-splash over the black void of the canvas, this vast, nearly three-metre-square Self-Portrait is an imposing, haunting and ultimately poignant work from Warhol's great last series of self-portraits made in 1986. (wikiart.org)"
+          "title" : "Self-Portrait",
+          "image" : "Andy4",
+          "info" : "Comprising solely of a flat, vibrant fiery-red silkscreen image of Warhol emblazoned like a single and dramatic paint-splash over the black void of the canvas, this vast, nearly three-metre-square Self-Portrait is an imposing, haunting and ultimately poignant work from Warhol's great last series of self-portraits made in 1986. (wikiart.org)"
         }
       ]
     },
     {
-      "name": "Process diagram",
-      "bio": "Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci (15 April 1452 – 2 May 1519), was an Italian polymath whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography. He has been variously called the father of paleontology, ichnology, and architecture, and is widely considered one of the greatest painters of all time.",
-      "image": "5",
-      "works": [
+      "name" : "Process diagram",
+      "bio" : "Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci (15 April 1452 – 2 May 1519), was an Italian polymath whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography. He has been variously called the father of paleontology, ichnology, and architecture, and is widely considered one of the greatest painters of all time.",
+      "image" : "5",
+      "works" : [
         {
-          "title": "Mona Lisa",
-          "image": "Leonardo1",
-          "info": "The Mona Lisa is a half-length portrait of a woman by the Italian artist Leonardo da Vinci, which has been acclaimed as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'"
+          "title" : "Mona Lisa",
+          "image" : "Leonardo1",
+          "info" : "The Mona Lisa is a half-length portrait of a woman by the Italian artist Leonardo da Vinci, which has been acclaimed as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'"
         },
         {
-          "title": "The Last Supper",
-          "image": "Leonardo2",
-          "info": "The Last Supper is a late 15th-century mural painting by Leonardo da Vinci in the refectory of the Convent of Santa Maria delle Grazie, Milan. It is one of the world's most famous paintings."
+          "title" : "The Last Supper",
+          "image" : "Leonardo2",
+          "info" : "The Last Supper is a late 15th-century mural painting by Leonardo da Vinci in the refectory of the Convent of Santa Maria delle Grazie, Milan. It is one of the world's most famous paintings."
         },
         {
-          "title": "Lady with an Ermine",
-          "image": "Leonardo3",
-          "info": "Lady with an Ermine is a painting by Leonardo da Vinci from around 1489–1490. The subject of the portrait is Cecilia Gallerani, and painted at a time when she was the mistress of Ludovico Sforza, Duke of Milan, and Leonardo was in the service of the Duke. The painting is one of only four portraits of women painted by Leonardo, the others being the Mona Lisa, the portrait of Ginevra de' Benci, and La belle ferronnière."
+          "title" : "Lady with an Ermine",
+          "image" : "Leonardo3",
+          "info" : "Lady with an Ermine is a painting by Leonardo da Vinci from around 1489–1490. The subject of the portrait is Cecilia Gallerani, and painted at a time when she was the mistress of Ludovico Sforza, Duke of Milan, and Leonardo was in the service of the Duke. The painting is one of only four portraits of women painted by Leonardo, the others being the Mona Lisa, the portrait of Ginevra de' Benci, and La belle ferronnière."
         },
         {
-          "title": "The Battle of Anghiari",
-          "image": "Leonardo4",
-          "info": "The Battle of Anghiari (1505) is a lost painting by Leonardo da Vinci, at times referred to as 'The Lost Leonardo', which some commentators believe to be still hidden beneath one of the later frescoes in the Salone dei Cinquecento (Hall of the Five Hundred) in the Palazzo Vecchio, Florence. Its central scene depicted four men riding raging war horses engaged in a battle for possession of a standard, at the Battle of Anghiari in 1440."
+          "title" : "The Battle of Anghiari",
+          "image" : "Leonardo4",
+          "info" : "The Battle of Anghiari (1505) is a lost painting by Leonardo da Vinci, at times referred to as 'The Lost Leonardo', which some commentators believe to be still hidden beneath one of the later frescoes in the Salone dei Cinquecento (Hall of the Five Hundred) in the Palazzo Vecchio, Florence. Its central scene depicted four men riding raging war horses engaged in a battle for possession of a standard, at the Battle of Anghiari in 1440."
         }
       ]
     },
     {
-      "name": "Multiple charts",
-      "bio": "Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci (15 April 1452 – 2 May 1519), was an Italian polymath whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography. He has been variously called the father of paleontology, ichnology, and architecture, and is widely considered one of the greatest painters of all time.",
-      "image": "6",
-      "works": [
+      "name" : "Multiple charts",
+      "bio" : "Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci (15 April 1452 – 2 May 1519), was an Italian polymath whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography. He has been variously called the father of paleontology, ichnology, and architecture, and is widely considered one of the greatest painters of all time.",
+      "image" : "6",
+      "works" : [
         {
-          "title": "Mona Lisa",
-          "image": "Leonardo1",
-          "info": "The Mona Lisa is a half-length portrait of a woman by the Italian artist Leonardo da Vinci, which has been acclaimed as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'"
+          "title" : "Mona Lisa",
+          "image" : "Leonardo1",
+          "info" : "The Mona Lisa is a half-length portrait of a woman by the Italian artist Leonardo da Vinci, which has been acclaimed as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'"
         },
         {
-          "title": "The Last Supper",
-          "image": "Leonardo2",
-          "info": "The Last Supper is a late 15th-century mural painting by Leonardo da Vinci in the refectory of the Convent of Santa Maria delle Grazie, Milan. It is one of the world's most famous paintings."
+          "title" : "The Last Supper",
+          "image" : "Leonardo2",
+          "info" : "The Last Supper is a late 15th-century mural painting by Leonardo da Vinci in the refectory of the Convent of Santa Maria delle Grazie, Milan. It is one of the world's most famous paintings."
         },
         {
-          "title": "Lady with an Ermine",
-          "image": "Leonardo3",
-          "info": "Lady with an Ermine is a painting by Leonardo da Vinci from around 1489–1490. The subject of the portrait is Cecilia Gallerani, and painted at a time when she was the mistress of Ludovico Sforza, Duke of Milan, and Leonardo was in the service of the Duke. The painting is one of only four portraits of women painted by Leonardo, the others being the Mona Lisa, the portrait of Ginevra de' Benci, and La belle ferronnière."
+          "title" : "Lady with an Ermine",
+          "image" : "Leonardo3",
+          "info" : "Lady with an Ermine is a painting by Leonardo da Vinci from around 1489–1490. The subject of the portrait is Cecilia Gallerani, and painted at a time when she was the mistress of Ludovico Sforza, Duke of Milan, and Leonardo was in the service of the Duke. The painting is one of only four portraits of women painted by Leonardo, the others being the Mona Lisa, the portrait of Ginevra de' Benci, and La belle ferronnière."
         },
         {
-          "title": "The Battle of Anghiari",
-          "image": "Leonardo4",
-          "info": "The Battle of Anghiari (1505) is a lost painting by Leonardo da Vinci, at times referred to as 'The Lost Leonardo', which some commentators believe to be still hidden beneath one of the later frescoes in the Salone dei Cinquecento (Hall of the Five Hundred) in the Palazzo Vecchio, Florence. Its central scene depicted four men riding raging war horses engaged in a battle for possession of a standard, at the Battle of Anghiari in 1440."
+          "title" : "The Battle of Anghiari",
+          "image" : "Leonardo4",
+          "info" : "The Battle of Anghiari (1505) is a lost painting by Leonardo da Vinci, at times referred to as 'The Lost Leonardo', which some commentators believe to be still hidden beneath one of the later frescoes in the Salone dei Cinquecento (Hall of the Five Hundred) in the Palazzo Vecchio, Florence. Its central scene depicted four men riding raging war horses engaged in a battle for possession of a standard, at the Battle of Anghiari in 1440."
         }
       ]
     },
     {
-      "name": "Comparison diagrams",
-      "bio": "Rembrandt Harmenszoon van Rijn (15 July 1606 – 4 October 1669) was a Dutch painter and etcher. He is generally considered one of the greatest painters and printmakers in European art and the most important in Dutch history.",
-      "image": "7",
-      "works": [
+      "name" : "Comparison diagrams",
+      "bio" : "Rembrandt Harmenszoon van Rijn (15 July 1606 – 4 October 1669) was a Dutch painter and etcher. He is generally considered one of the greatest painters and printmakers in European art and the most important in Dutch history.",
+      "image" : "7",
+      "works" : [
         {
-          "title": "Belshazzar's Feast",
-          "image": "Rembrandt1",
-          "info": "Belshazzar's Feast is a painting by Rembrandt housed in the National Gallery, London. The painting is an attempt to establish Rembrandt as a painter of large, baroque history paintings."
+          "title" : "Belshazzar's Feast",
+          "image" : "Rembrandt1",
+          "info" : "Belshazzar's Feast is a painting by Rembrandt housed in the National Gallery, London. The painting is an attempt to establish Rembrandt as a painter of large, baroque history paintings."
         },
         {
-          "title": "The Night Watch",
-          "image": "Rembrandt2",
-          "info": "Militia Company of District II under the Command of Captain Frans Banninck Cocq, also known as The Shooting Company of Frans Banning Cocq and Willem van Ruytenburch, but commonly referred to as The Night Watch (Dutch: De Nachtwacht), is a 1642 painting by Rembrandt van Rijn. It is in the collection of the Amsterdam Museum but is prominently displayed in the Rijksmuseum as the best known painting in its collection."
+          "title" : "The Night Watch",
+          "image" : "Rembrandt2",
+          "info" : "Militia Company of District II under the Command of Captain Frans Banninck Cocq, also known as The Shooting Company of Frans Banning Cocq and Willem van Ruytenburch, but commonly referred to as The Night Watch (Dutch: De Nachtwacht), is a 1642 painting by Rembrandt van Rijn. It is in the collection of the Amsterdam Museum but is prominently displayed in the Rijksmuseum as the best known painting in its collection."
         },
         {
-          "title": "Syndics of the Drapers' Guild",
-          "image": "Rembrandt3",
-          "info": "The Sampling Officials (Dutch: De Staalmeesters), also called Syndics of the Drapers' Guild, is a 1662 oil painting by Rembrandt. It is currently owned by the Rijksmuseum in Amsterdam. It has been described as his 'last great collective portrait'."
+          "title" : "Syndics of the Drapers' Guild",
+          "image" : "Rembrandt3",
+          "info" : "The Sampling Officials (Dutch: De Staalmeesters), also called Syndics of the Drapers' Guild, is a 1662 oil painting by Rembrandt. It is currently owned by the Rijksmuseum in Amsterdam. It has been described as his 'last great collective portrait'."
         },
         {
-          "title": "Jacob de Gheyn III",
-          "image": "Rembrandt4",
-          "info": "Jacob de Gheyn III, also known as Jacob III de Gheyn (1596–1641), was a Dutch Golden Age engraver, son of Jacob de Gheyn II, canon of Utrecht (city), and the subject of a 1632 oil painting by Rembrandt. The portrait is half of a pair of pendent portraits. The other piece is a portrait of de Gheyn's friend Maurits Huygens, wearing similar clothing (ruffs and black doublets) and facing the opposite direction."
+          "title" : "Jacob de Gheyn III",
+          "image" : "Rembrandt4",
+          "info" : "Jacob de Gheyn III, also known as Jacob III de Gheyn (1596–1641), was a Dutch Golden Age engraver, son of Jacob de Gheyn II, canon of Utrecht (city), and the subject of a 1632 oil painting by Rembrandt. The portrait is half of a pair of pendent portraits. The other piece is a portrait of de Gheyn's friend Maurits Huygens, wearing similar clothing (ruffs and black doublets) and facing the opposite direction."
         }
       ]
     }
