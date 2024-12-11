@@ -28,7 +28,7 @@
 		A23F75341C9BA757006FA46F /* ArtistDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistDetailViewController.swift; sourceTree = "<group>"; };
 		A23F75361C9BADB7006FA46F /* Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Work.swift; sourceTree = "<group>"; };
 		A23F753A1C9BC89A006FA46F /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A2D7F3051C8CE3F60097399A /* ieltsWriting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ieltsWriting.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2D7F3051C8CE3F60097399A /* IELTSWriting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IELTSWriting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D7F3081C8CE3F60097399A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2D7F30D1C8CE3F60097399A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A2D7F30F1C8CE3F60097399A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		A2D7F3061C8CE3F60097399A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A2D7F3051C8CE3F60097399A /* ieltsWriting.app */,
+				A2D7F3051C8CE3F60097399A /* IELTSWriting.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -136,7 +136,7 @@
 			);
 			name = ieltsWriting;
 			productName = Artistry;
-			productReference = A2D7F3051C8CE3F60097399A /* ieltsWriting.app */;
+			productReference = A2D7F3051C8CE3F60097399A /* IELTSWriting.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -347,7 +347,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
-				PRODUCT_NAME = ieltsWriting;
+				PRODUCT_NAME = IELTSWriting;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -363,7 +363,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
-				PRODUCT_NAME = ieltsWriting;
+				PRODUCT_NAME = IELTSWriting;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
