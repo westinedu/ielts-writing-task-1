@@ -16,7 +16,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A2D7F3041C8CE3F60097399A"
-               BuildableName = "ieltsWriting.app"
+               BuildableName = "IELTSWriting.app"
                BlueprintName = "ieltsWriting"
                ReferencedContainer = "container:ieltsWriting.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A2D7F3041C8CE3F60097399A"
-            BuildableName = "ieltsWriting.app"
+            BuildableName = "IELTSWriting.app"
             BlueprintName = "ieltsWriting"
             ReferencedContainer = "container:ieltsWriting.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A2D7F3041C8CE3F60097399A"
-            BuildableName = "ieltsWriting.app"
+            BuildableName = "IELTSWriting.app"
             BlueprintName = "ieltsWriting"
             ReferencedContainer = "container:ieltsWriting.xcodeproj">
          </BuildableReference>
