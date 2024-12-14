@@ -26,7 +26,7 @@ class ArtistDetailViewController: UIViewController {
   
   var selectedArtist: Artist!
   
-  let moreInfoText = "Click Image For full Info >"
+  let moreInfoText = "Click Image For Full Essay >"
   
   @IBOutlet weak var tableView: UITableView!
   
@@ -58,14 +58,14 @@ extension ArtistDetailViewController: UITableViewDataSource {
     
     cell.workTitleLabel.backgroundColor = UIColor(white: 204/255, alpha: 1)
     cell.workTitleLabel.textAlignment = .center
-    cell.moreInfoTextView.textColor = UIColor(white: 114 / 255, alpha: 1)
+//    cell.moreInfoTextView.textColor = UIColor(white: 114 / 255, alpha: 1)
     cell.selectionStyle = .none
     
     cell.moreInfoTextView.text = work.isExpanded ? work.info : moreInfoText
     cell.moreInfoTextView.textAlignment = work.isExpanded ? .left : .center
     
     cell.workTitleLabel.font = UIFont.preferredFont(forTextStyle: UIFont.TextStyle.headline)
-    cell.moreInfoTextView.font = UIFont.preferredFont(forTextStyle: UIFont.TextStyle.footnote)
+//    cell.moreInfoTextView.font = UIFont.preferredFont(forTextStyle: UIFont.TextStyle.body)
     
     return cell
   }
