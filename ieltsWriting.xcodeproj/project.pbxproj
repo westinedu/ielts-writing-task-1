@@ -20,18 +20,6 @@
 		18BF27B12D0D550700260FFB /* artists.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F3201C8CE4A30097399A /* artists.json */; };
 		18BF27B22D0D550700260FFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F30C1C8CE3F60097399A /* Main.storyboard */; };
 		18BF27B32D0D550700260FFB /* File in Resources */ = {isa = PBXBuildFile; fileRef = 1826237A2C995ABD005C9797 /* File */; };
-		18BF27BC2D0D560800260FFB /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F31C1C8CE44E0097399A /* Artist.swift */; };
-		18BF27BD2D0D560800260FFB /* WorkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B21E0CE3B9002036AC /* WorkTableViewCell.swift */; };
-		18BF27BE2D0D560800260FFB /* Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F75361C9BADB7006FA46F /* Work.swift */; };
-		18BF27BF2D0D560800260FFB /* ArtistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F75341C9BA757006FA46F /* ArtistDetailViewController.swift */; };
-		18BF27C02D0D560800260FFB /* ArtistListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F31E1C8CE4640097399A /* ArtistListViewController.swift */; };
-		18BF27C12D0D560800260FFB /* ArtistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B01E0CD9E1002036AC /* ArtistTableViewCell.swift */; };
-		18BF27C22D0D560800260FFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F3081C8CE3F60097399A /* AppDelegate.swift */; };
-		18BF27C52D0D560800260FFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F3111C8CE3F60097399A /* LaunchScreen.storyboard */; };
-		18BF27C62D0D560800260FFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F30F1C8CE3F60097399A /* Assets.xcassets */; };
-		18BF27C72D0D560800260FFB /* artists.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F3201C8CE4A30097399A /* artists.json */; };
-		18BF27C82D0D560800260FFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F30C1C8CE3F60097399A /* Main.storyboard */; };
-		18BF27C92D0D560800260FFB /* File in Resources */ = {isa = PBXBuildFile; fileRef = 1826237A2C995ABD005C9797 /* File */; };
 		19E5B4B11E0CD9E1002036AC /* ArtistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B01E0CD9E1002036AC /* ArtistTableViewCell.swift */; };
 		19E5B4B31E0CE3B9002036AC /* WorkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B21E0CE3B9002036AC /* WorkTableViewCell.swift */; };
 		A23F75351C9BA757006FA46F /* ArtistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F75341C9BA757006FA46F /* ArtistDetailViewController.swift */; };
@@ -49,7 +37,6 @@
 		1826237A2C995ABD005C9797 /* File */ = {isa = PBXFileReference; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
 		18BF27B82D0D550700260FFB /* ieltsWriting NewUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ieltsWriting NewUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18BF27B92D0D550700260FFB /* ieltsWriting copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "ieltsWriting copy-Info.plist"; path = "/Volumes/BOOTCAMP/ielts-writing-task-1/ieltsWriting copy-Info.plist"; sourceTree = "<absolute>"; };
-		18BF27CE2D0D560800260FFB /* ieltsWriting copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ieltsWriting copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18BF27CF2D0D560900260FFB /* ieltsWriting copy2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "ieltsWriting copy2-Info.plist"; path = "/Volumes/BOOTCAMP/ielts-writing-task-1/ieltsWriting copy2-Info.plist"; sourceTree = "<absolute>"; };
 		19E5B4B01E0CD9E1002036AC /* ArtistTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistTableViewCell.swift; sourceTree = "<group>"; };
 		19E5B4B21E0CE3B9002036AC /* WorkTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WorkTableViewCell.swift; sourceTree = "<group>"; };
@@ -68,13 +55,6 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		18BF27AD2D0D550700260FFB /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		18BF27C32D0D560800260FFB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -137,7 +117,6 @@
 			children = (
 				A2D7F3051C8CE3F60097399A /* IELTSWriting.app */,
 				18BF27B82D0D550700260FFB /* ieltsWriting NewUI.app */,
-				18BF27CE2D0D560800260FFB /* ieltsWriting copy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,23 +164,6 @@
 			productReference = 18BF27B82D0D550700260FFB /* ieltsWriting NewUI.app */;
 			productType = "com.apple.product-type.application";
 		};
-		18BF27BA2D0D560800260FFB /* ieltsWriting copy */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 18BF27CA2D0D560800260FFB /* Build configuration list for PBXNativeTarget "ieltsWriting copy" */;
-			buildPhases = (
-				18BF27BB2D0D560800260FFB /* Sources */,
-				18BF27C32D0D560800260FFB /* Frameworks */,
-				18BF27C42D0D560800260FFB /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "ieltsWriting copy";
-			productName = Artistry;
-			productReference = 18BF27CE2D0D560800260FFB /* ieltsWriting copy.app */;
-			productType = "com.apple.product-type.application";
-		};
 		A2D7F3041C8CE3F60097399A /* ieltsWriting */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A2D7F3171C8CE3F60097399A /* Build configuration list for PBXNativeTarget "ieltsWriting" */;
@@ -227,7 +189,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 1610;
+				LastUpgradeCheck = 1620;
 				ORGANIZATIONNAME = RayWenderlich;
 				TargetAttributes = {
 					A2D7F3041C8CE3F60097399A = {
@@ -251,7 +213,6 @@
 			targets = (
 				A2D7F3041C8CE3F60097399A /* ieltsWriting */,
 				18BF27A42D0D550700260FFB /* ieltsWriting NewUI */,
-				18BF27BA2D0D560800260FFB /* ieltsWriting copy */,
 			);
 		};
 /* End PBXProject section */
@@ -266,18 +227,6 @@
 				18BF27B12D0D550700260FFB /* artists.json in Resources */,
 				18BF27B22D0D550700260FFB /* Main.storyboard in Resources */,
 				18BF27B32D0D550700260FFB /* File in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		18BF27C42D0D560800260FFB /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				18BF27C52D0D560800260FFB /* LaunchScreen.storyboard in Resources */,
-				18BF27C62D0D560800260FFB /* Assets.xcassets in Resources */,
-				18BF27C72D0D560800260FFB /* artists.json in Resources */,
-				18BF27C82D0D560800260FFB /* Main.storyboard in Resources */,
-				18BF27C92D0D560800260FFB /* File in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,20 +256,6 @@
 				18BF27AA2D0D550700260FFB /* ArtistListViewController.swift in Sources */,
 				18BF27AB2D0D550700260FFB /* ArtistTableViewCell.swift in Sources */,
 				18BF27AC2D0D550700260FFB /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		18BF27BB2D0D560800260FFB /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				18BF27BC2D0D560800260FFB /* Artist.swift in Sources */,
-				18BF27BD2D0D560800260FFB /* WorkTableViewCell.swift in Sources */,
-				18BF27BE2D0D560800260FFB /* Work.swift in Sources */,
-				18BF27BF2D0D560800260FFB /* ArtistDetailViewController.swift in Sources */,
-				18BF27C02D0D560800260FFB /* ArtistListViewController.swift in Sources */,
-				18BF27C12D0D560800260FFB /* ArtistTableViewCell.swift in Sources */,
-				18BF27C22D0D560800260FFB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,81 +295,6 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		18BF27A22D0D4F2C00260FFB /* Debug InfoPlain */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = iphoneos;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = "Debug InfoPlain";
-		};
-		18BF27A32D0D4F2C00260FFB /* Debug InfoPlain */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LAQY5FW52H;
-				INFOPLIST_FILE = ieltsWriting/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
-				PRODUCT_NAME = IELTSWriting;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = "Debug InfoPlain";
-		};
 		18BF27B52D0D550700260FFB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -445,29 +305,12 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
+				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWritingNewUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
-		};
-		18BF27B62D0D550700260FFB /* Debug InfoPlain */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LAQY5FW52H;
-				INFOPLIST_FILE = "ieltsWriting copy-Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = "Debug InfoPlain";
 		};
 		18BF27B72D0D550700260FFB /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -479,58 +322,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Release;
-		};
-		18BF27CB2D0D560800260FFB /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LAQY5FW52H;
-				INFOPLIST_FILE = "ieltsWriting copy2-Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Debug;
-		};
-		18BF27CC2D0D560800260FFB /* Debug InfoPlain */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LAQY5FW52H;
-				INFOPLIST_FILE = "ieltsWriting copy2-Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = "Debug InfoPlain";
-		};
-		18BF27CD2D0D560800260FFB /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LAQY5FW52H;
-				INFOPLIST_FILE = "ieltsWriting copy2-Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
+				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWritingNewUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -541,6 +333,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -599,6 +392,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -689,18 +483,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18BF27B52D0D550700260FFB /* Debug */,
-				18BF27B62D0D550700260FFB /* Debug InfoPlain */,
 				18BF27B72D0D550700260FFB /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		18BF27CA2D0D560800260FFB /* Build configuration list for PBXNativeTarget "ieltsWriting copy" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				18BF27CB2D0D560800260FFB /* Debug */,
-				18BF27CC2D0D560800260FFB /* Debug InfoPlain */,
-				18BF27CD2D0D560800260FFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -709,7 +492,6 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A2D7F3151C8CE3F60097399A /* Debug */,
-				18BF27A22D0D4F2C00260FFB /* Debug InfoPlain */,
 				A2D7F3161C8CE3F60097399A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
@@ -719,7 +501,6 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A2D7F3181C8CE3F60097399A /* Debug */,
-				18BF27A32D0D4F2C00260FFB /* Debug InfoPlain */,
 				A2D7F3191C8CE3F60097399A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;

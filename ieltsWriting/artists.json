@@ -2,7 +2,7 @@
   "artists" : [
     {
       "name" : "Line graph",
-      "bio" : "increase, rise, climb, grow, surge, jump, soar, rocket to \nstay at, remain stable at, maintain the same level",
+      "bio" : "Words for illustrating trends: increase, rise, climb, grow, surge, jump, soar, rocket to \nstay at, remain stable at, maintain the same level",
       "image" : "0",
       "works" : [
         {
@@ -29,7 +29,7 @@
     },
     {
       "name" : "Bar chart",
-      "bio" : "reach a peak of , peak at ,\nreach the bottom at , bottom out at ,\nwas second in terms of ,\nfollow a very similar trend",
+      "bio" : "Words for key point: reach a peak of , peak at ,\nreach the bottom at , bottom out at ,\nwas second in terms of ,\nfollow a very similar trend",
       "image" : "1",
       "works" : [
         {
@@ -56,7 +56,7 @@
     },
     {
       "name" : "Pie chart",
-      "bio" : "exceed , overtake , surpass ,\nis comparable with , make up 7 percent of ,\naccounting for 7 percent of , constitute less than 7 percent of ",
+      "bio" : "Verb phrases: exceed , overtake , surpass ,\nis comparable with , make up 7 percent of ,\naccounting for 7 percent of , constitute less than 7 percent of ",
       "image" : "2",
       "works" : [
         {
@@ -83,7 +83,7 @@
     },
     {
       "name" : "Table",
-      "bio" : "three times as many people , the number of Austria doubles ,\noutnumber , decrease , fall , drop , decline , slip ,\n",
+      "bio" : "Comparative phrases: three times as many people , the number of Austria doubles ,\noutnumber , decrease , fall , drop , decline , slip ,\n",
       "image" : "3",
       "works" : [
         {
@@ -110,7 +110,7 @@
     },
     {
       "name" : "Map",
-      "bio" : "to the northeast of the town centre ,\nsurrounds the town centre ,\nto the eastern parts of the area",
+      "bio" : "Orientation phrases: to the northeast of the town centre ,\nsurrounds the town centre ,\nto the eastern parts of the area",
       "image" : "4",
       "works" : [
         {
@@ -137,7 +137,7 @@
     },
     {
       "name" : "Process diagram",
-      "bio" : "The diagram shows the production of … , with x number of steps starting with … and ending with …\nAt the second stage ",
+      "bio" : "Process diagram phrases: The diagram shows the production of … , with x number of steps starting with … and ending with …\nAt the second stage ",
       "image" : "5",
       "works" : [
         {

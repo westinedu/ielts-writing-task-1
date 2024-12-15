@@ -15,9 +15,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "18BF27BA2D0D560800260FFB"
-               BuildableName = "ieltsWriting copy.app"
-               BlueprintName = "ieltsWriting copy"
+               BlueprintIdentifier = "18BF27A42D0D550700260FFB"
+               BuildableName = "ieltsWriting NewUI.app"
+               BlueprintName = "ieltsWriting NewUI"
                ReferencedContainer = "container:ieltsWriting.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -50,15 +50,6 @@
             ReferencedContainer = "container:ieltsWriting.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18BF27BA2D0D560800260FFB"
-            BuildableName = "ieltsWriting copy.app"
-            BlueprintName = "ieltsWriting copy"
-            ReferencedContainer = "container:ieltsWriting.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -70,9 +61,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18BF27BA2D0D560800260FFB"
-            BuildableName = "ieltsWriting copy.app"
-            BlueprintName = "ieltsWriting copy"
+            BlueprintIdentifier = "18BF27A42D0D550700260FFB"
+            BuildableName = "ieltsWriting NewUI.app"
+            BlueprintName = "ieltsWriting NewUI"
             ReferencedContainer = "container:ieltsWriting.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
