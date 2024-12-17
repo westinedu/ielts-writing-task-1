@@ -8,6 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		1826237B2C995ABD005C9797 /* File in Resources */ = {isa = PBXBuildFile; fileRef = 1826237A2C995ABD005C9797 /* File */; };
+		184A4F202D11650F0003DA0F /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F31C1C8CE44E0097399A /* Artist.swift */; };
+		184A4F212D11650F0003DA0F /* WorkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B21E0CE3B9002036AC /* WorkTableViewCell.swift */; };
+		184A4F222D11650F0003DA0F /* Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F75361C9BADB7006FA46F /* Work.swift */; };
+		184A4F232D11650F0003DA0F /* ArtistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F75341C9BA757006FA46F /* ArtistDetailViewController.swift */; };
+		184A4F242D11650F0003DA0F /* ArtistListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F31E1C8CE4640097399A /* ArtistListViewController.swift */; };
+		184A4F252D11650F0003DA0F /* ArtistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B01E0CD9E1002036AC /* ArtistTableViewCell.swift */; };
+		184A4F262D11650F0003DA0F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F3081C8CE3F60097399A /* AppDelegate.swift */; };
+		184A4F292D11650F0003DA0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F3111C8CE3F60097399A /* LaunchScreen.storyboard */; };
+		184A4F2A2D11650F0003DA0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F30F1C8CE3F60097399A /* Assets.xcassets */; };
+		184A4F2B2D11650F0003DA0F /* artists.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F3201C8CE4A30097399A /* artists.json */; };
+		184A4F2C2D11650F0003DA0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F30C1C8CE3F60097399A /* Main.storyboard */; };
+		184A4F2D2D11650F0003DA0F /* File in Resources */ = {isa = PBXBuildFile; fileRef = 1826237A2C995ABD005C9797 /* File */; };
+		18BB9D512D1062D9003514B9 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F31C1C8CE44E0097399A /* Artist.swift */; };
+		18BB9D522D1062D9003514B9 /* WorkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B21E0CE3B9002036AC /* WorkTableViewCell.swift */; };
+		18BB9D532D1062D9003514B9 /* Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F75361C9BADB7006FA46F /* Work.swift */; };
+		18BB9D542D1062D9003514B9 /* ArtistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F75341C9BA757006FA46F /* ArtistDetailViewController.swift */; };
+		18BB9D552D1062D9003514B9 /* ArtistListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F31E1C8CE4640097399A /* ArtistListViewController.swift */; };
+		18BB9D562D1062D9003514B9 /* ArtistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B01E0CD9E1002036AC /* ArtistTableViewCell.swift */; };
+		18BB9D572D1062D9003514B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F3081C8CE3F60097399A /* AppDelegate.swift */; };
+		18BB9D5A2D1062D9003514B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F3111C8CE3F60097399A /* LaunchScreen.storyboard */; };
+		18BB9D5B2D1062D9003514B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F30F1C8CE3F60097399A /* Assets.xcassets */; };
+		18BB9D5C2D1062D9003514B9 /* artists.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F3201C8CE4A30097399A /* artists.json */; };
+		18BB9D5D2D1062D9003514B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D7F30C1C8CE3F60097399A /* Main.storyboard */; };
+		18BB9D5E2D1062D9003514B9 /* File in Resources */ = {isa = PBXBuildFile; fileRef = 1826237A2C995ABD005C9797 /* File */; };
 		18BF27A62D0D550700260FFB /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D7F31C1C8CE44E0097399A /* Artist.swift */; };
 		18BF27A72D0D550700260FFB /* WorkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E5B4B21E0CE3B9002036AC /* WorkTableViewCell.swift */; };
 		18BF27A82D0D550700260FFB /* Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F75361C9BADB7006FA46F /* Work.swift */; };
@@ -35,9 +59,9 @@
 
 /* Begin PBXFileReference section */
 		1826237A2C995ABD005C9797 /* File */ = {isa = PBXFileReference; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
+		184A4F312D11650F0003DA0F /* ieltsWritingV1.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ieltsWritingV1.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18BB9D622D1062D9003514B9 /* ieltsWriting version test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ieltsWriting version test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18BF27B82D0D550700260FFB /* ieltsWriting NewUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ieltsWriting NewUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		18BF27B92D0D550700260FFB /* ieltsWriting copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "ieltsWriting copy-Info.plist"; path = "/Volumes/BOOTCAMP/ielts-writing-task-1/ieltsWriting copy-Info.plist"; sourceTree = "<absolute>"; };
-		18BF27CF2D0D560900260FFB /* ieltsWriting copy2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "ieltsWriting copy2-Info.plist"; path = "/Volumes/BOOTCAMP/ielts-writing-task-1/ieltsWriting copy2-Info.plist"; sourceTree = "<absolute>"; };
 		19E5B4B01E0CD9E1002036AC /* ArtistTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistTableViewCell.swift; sourceTree = "<group>"; };
 		19E5B4B21E0CE3B9002036AC /* WorkTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WorkTableViewCell.swift; sourceTree = "<group>"; };
 		A23F75341C9BA757006FA46F /* ArtistDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistDetailViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +78,20 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		184A4F272D11650F0003DA0F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18BB9D582D1062D9003514B9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		18BF27AD2D0D550700260FFB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -104,8 +142,6 @@
 			children = (
 				1826237A2C995ABD005C9797 /* File */,
 				A2D7F3071C8CE3F60097399A /* ieltsWriting */,
-				18BF27B92D0D550700260FFB /* ieltsWriting copy-Info.plist */,
-				18BF27CF2D0D560900260FFB /* ieltsWriting copy2-Info.plist */,
 				A2D7F3061C8CE3F60097399A /* Products */,
 			);
 			indentWidth = 2;
@@ -117,6 +153,8 @@
 			children = (
 				A2D7F3051C8CE3F60097399A /* IELTSWriting.app */,
 				18BF27B82D0D550700260FFB /* ieltsWriting NewUI.app */,
+				18BB9D622D1062D9003514B9 /* ieltsWriting version test.app */,
+				184A4F312D11650F0003DA0F /* ieltsWritingV1.1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -147,6 +185,40 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		184A4F1E2D11650F0003DA0F /* ieltsWritingV1.1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 184A4F2E2D11650F0003DA0F /* Build configuration list for PBXNativeTarget "ieltsWritingV1.1" */;
+			buildPhases = (
+				184A4F1F2D11650F0003DA0F /* Sources */,
+				184A4F272D11650F0003DA0F /* Frameworks */,
+				184A4F282D11650F0003DA0F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ieltsWritingV1.1;
+			productName = Artistry;
+			productReference = 184A4F312D11650F0003DA0F /* ieltsWritingV1.1.app */;
+			productType = "com.apple.product-type.application";
+		};
+		18BB9D4F2D1062D9003514B9 /* ieltsWriting version test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18BB9D5F2D1062D9003514B9 /* Build configuration list for PBXNativeTarget "ieltsWriting version test" */;
+			buildPhases = (
+				18BB9D502D1062D9003514B9 /* Sources */,
+				18BB9D582D1062D9003514B9 /* Frameworks */,
+				18BB9D592D1062D9003514B9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ieltsWriting version test";
+			productName = Artistry;
+			productReference = 18BB9D622D1062D9003514B9 /* ieltsWriting version test.app */;
+			productType = "com.apple.product-type.application";
+		};
 		18BF27A42D0D550700260FFB /* ieltsWriting NewUI */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 18BF27B42D0D550700260FFB /* Build configuration list for PBXNativeTarget "ieltsWriting NewUI" */;
@@ -188,7 +260,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
-				LastSwiftUpdateCheck = 0720;
+				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				ORGANIZATIONNAME = RayWenderlich;
 				TargetAttributes = {
@@ -213,11 +285,37 @@
 			targets = (
 				A2D7F3041C8CE3F60097399A /* ieltsWriting */,
 				18BF27A42D0D550700260FFB /* ieltsWriting NewUI */,
+				18BB9D4F2D1062D9003514B9 /* ieltsWriting version test */,
+				184A4F1E2D11650F0003DA0F /* ieltsWritingV1.1 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		184A4F282D11650F0003DA0F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				184A4F292D11650F0003DA0F /* LaunchScreen.storyboard in Resources */,
+				184A4F2A2D11650F0003DA0F /* Assets.xcassets in Resources */,
+				184A4F2B2D11650F0003DA0F /* artists.json in Resources */,
+				184A4F2C2D11650F0003DA0F /* Main.storyboard in Resources */,
+				184A4F2D2D11650F0003DA0F /* File in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18BB9D592D1062D9003514B9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18BB9D5A2D1062D9003514B9 /* LaunchScreen.storyboard in Resources */,
+				18BB9D5B2D1062D9003514B9 /* Assets.xcassets in Resources */,
+				18BB9D5C2D1062D9003514B9 /* artists.json in Resources */,
+				18BB9D5D2D1062D9003514B9 /* Main.storyboard in Resources */,
+				18BB9D5E2D1062D9003514B9 /* File in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		18BF27AE2D0D550700260FFB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -245,6 +343,34 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		184A4F1F2D11650F0003DA0F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				184A4F202D11650F0003DA0F /* Artist.swift in Sources */,
+				184A4F212D11650F0003DA0F /* WorkTableViewCell.swift in Sources */,
+				184A4F222D11650F0003DA0F /* Work.swift in Sources */,
+				184A4F232D11650F0003DA0F /* ArtistDetailViewController.swift in Sources */,
+				184A4F242D11650F0003DA0F /* ArtistListViewController.swift in Sources */,
+				184A4F252D11650F0003DA0F /* ArtistTableViewCell.swift in Sources */,
+				184A4F262D11650F0003DA0F /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18BB9D502D1062D9003514B9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18BB9D512D1062D9003514B9 /* Artist.swift in Sources */,
+				18BB9D522D1062D9003514B9 /* WorkTableViewCell.swift in Sources */,
+				18BB9D532D1062D9003514B9 /* Work.swift in Sources */,
+				18BB9D542D1062D9003514B9 /* ArtistDetailViewController.swift in Sources */,
+				18BB9D552D1062D9003514B9 /* ArtistListViewController.swift in Sources */,
+				18BB9D562D1062D9003514B9 /* ArtistTableViewCell.swift in Sources */,
+				18BB9D572D1062D9003514B9 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		18BF27A52D0D550700260FFB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -295,6 +421,74 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		184A4F2F2D11650F0003DA0F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LAQY5FW52H;
+				INFOPLIST_FILE = "ieltsWriting NewUI copy3-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWritingV1.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		184A4F302D11650F0003DA0F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LAQY5FW52H;
+				INFOPLIST_FILE = "ieltsWriting NewUI copy3-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWritingV1.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		18BB9D602D1062D9003514B9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LAQY5FW52H;
+				INFOPLIST_FILE = "$(TARGET_NAME)-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWritingV1.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		18BB9D612D1062D9003514B9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LAQY5FW52H;
+				INFOPLIST_FILE = "$(TARGET_NAME)-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWritingV1.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
 		18BF27B52D0D550700260FFB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -446,12 +640,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1.0;
 				DEVELOPMENT_TEAM = LAQY5FW52H;
 				INFOPLIST_FILE = ieltsWriting/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
 				PRODUCT_NAME = IELTSWriting;
 				SWIFT_VERSION = 5.0;
@@ -463,12 +659,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1.0;
 				DEVELOPMENT_TEAM = LAQY5FW52H;
 				INFOPLIST_FILE = ieltsWriting/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = RW.ieltsWriting;
 				PRODUCT_NAME = IELTSWriting;
 				SWIFT_VERSION = 5.0;
@@ -479,6 +677,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		184A4F2E2D11650F0003DA0F /* Build configuration list for PBXNativeTarget "ieltsWritingV1.1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				184A4F2F2D11650F0003DA0F /* Debug */,
+				184A4F302D11650F0003DA0F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18BB9D5F2D1062D9003514B9 /* Build configuration list for PBXNativeTarget "ieltsWriting version test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18BB9D602D1062D9003514B9 /* Debug */,
+				18BB9D612D1062D9003514B9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		18BF27B42D0D550700260FFB /* Build configuration list for PBXNativeTarget "ieltsWriting NewUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
