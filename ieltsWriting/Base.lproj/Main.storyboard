@@ -121,10 +121,10 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="qlH-Cp-CfE">
-                                                    <rect key="frame" x="28" y="11" width="345" height="34.333333333333336"/>
+                                                    <rect key="frame" x="22" y="11.000000000000004" width="357" height="42.333333333333343"/>
                                                 </imageView>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jk1-Yo-DMh">
-                                                    <rect key="frame" x="28" y="53.333333333333336" width="345" height="20.333333333333336"/>
+                                                    <rect key="frame" x="22" y="53.333333333333336" width="357" height="20.333333333333336"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
@@ -132,7 +132,7 @@
                                                 <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" scrollEnabled="NO" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="z7X-Sm-QE0">
                                                     <rect key="frame" x="0.0" y="66" width="401" height="200"/>
                                                     <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                                    <mutableString key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</mutableString>
+                                                    <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                                     <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="14"/>
                                                     <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -141,9 +141,9 @@
                                             <constraints>
                                                 <constraint firstItem="z7X-Sm-QE0" firstAttribute="top" secondItem="jk1-Yo-DMh" secondAttribute="bottom" constant="8" id="4Vh-k2-RSv"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="z7X-Sm-QE0" secondAttribute="trailing" id="7bK-EF-fZl"/>
-                                                <constraint firstAttribute="trailingMargin" secondItem="qlH-Cp-CfE" secondAttribute="trailing" constant="8" id="CAh-WD-EAX"/>
-                                                <constraint firstItem="qlH-Cp-CfE" firstAttribute="leading" secondItem="MJV-73-Ltb" secondAttribute="leadingMargin" constant="8" id="FMB-6o-U6A"/>
-                                                <constraint firstItem="jk1-Yo-DMh" firstAttribute="top" secondItem="qlH-Cp-CfE" secondAttribute="bottom" constant="8" id="Idw-JI-dno"/>
+                                                <constraint firstAttribute="trailingMargin" secondItem="qlH-Cp-CfE" secondAttribute="trailing" constant="2" id="CAh-WD-EAX"/>
+                                                <constraint firstItem="qlH-Cp-CfE" firstAttribute="leading" secondItem="MJV-73-Ltb" secondAttribute="leadingMargin" constant="2" id="FMB-6o-U6A"/>
+                                                <constraint firstItem="jk1-Yo-DMh" firstAttribute="top" secondItem="qlH-Cp-CfE" secondAttribute="bottom" id="Idw-JI-dno"/>
                                                 <constraint firstItem="z7X-Sm-QE0" firstAttribute="leading" secondItem="MJV-73-Ltb" secondAttribute="leadingMargin" id="Rag-VA-B0a"/>
                                                 <constraint firstAttribute="bottomMargin" secondItem="z7X-Sm-QE0" secondAttribute="bottom" id="TIe-gw-Exg"/>
                                                 <constraint firstItem="jk1-Yo-DMh" firstAttribute="centerX" secondItem="MJV-73-Ltb" secondAttribute="centerX" id="eYy-Zn-cks"/>

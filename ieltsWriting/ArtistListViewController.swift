@@ -58,7 +58,7 @@ extension ArtistListViewController: UITableViewDataSource {
     let artist = artists[indexPath.row]
     
     cell.bioLabel.text = artist.bio
-    cell.bioLabel.textColor = UIColor(white: 114/255, alpha: 1)
+//    cell.bioLabel.textColor = UIColor(white: 114/255, alpha: 1)
     
     cell.artistImageView.image = artist.image
     cell.nameLabel.text = artist.name
@@ -69,7 +69,7 @@ extension ArtistListViewController: UITableViewDataSource {
     cell.selectionStyle = .none
     
     cell.nameLabel.font = UIFont.preferredFont(forTextStyle: .headline)
-    cell.bioLabel.font = UIFont.preferredFont(forTextStyle: .body)
+//    cell.bioLabel.font = UIFont.preferredFont(forTextStyle: .body)
     
     return cell
   }
