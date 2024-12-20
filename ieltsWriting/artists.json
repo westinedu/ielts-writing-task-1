@@ -2,7 +2,7 @@
   "artists" : [
     {
       "name" : "Line graph",
-      "bio" : "Words for illustrating trends: increase, rise, climb, grow, surge, jump, soar, rocket to \nstay at, remain stable at, maintain the same level",
+      "bio" : "Words for illustrating trends: increase, rise, climb, grow, surge, jump, soar, rocket to \nstay at, remain stable at, maintain the same level,\nrise significantly , vary considerably",
       "image" : "0",
       "works" : [
         {
@@ -118,7 +118,7 @@
     },
     {
       "name" : "Table",
-      "bio" : "Comparative phrases: three times as many people , the number of Austria doubles ,\noutnumber , decrease , fall , drop , decline , slip ,\n",
+      "bio" : "Comparative phrases: three times as many people , the number of Austria doubles ,\noutnumber , decrease , fall , drop , decline , slip ,\nstand at one fifith of ,  see a dramatic fall",
       "image" : "3",
       "works" : [
         {
@@ -251,7 +251,7 @@
     },
     {
       "name" : "Comparison diagrams",
-      "bio" : "as for , with regard to , by contrast ,\nrespectively , rise significantly , vary considerably  , \nstand at one fifith of ,  see a dramatic fall",
+      "bio" : "planned, proposed, redevelped building\ndemolish,take down\nrenovate, repave the road\nexpand, extend",
       "image" : "7",
       "works" : [
         {
